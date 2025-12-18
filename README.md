@@ -10,9 +10,9 @@
 
 ## Implicit Animation
 ### Animasi saklar lampu ON/OFF menggunakan :
-•	AnimatedContainer
-•	AnimatedAlign
-•	perubahan warna, ukuran, dan posisi
+  - AnimatedContainer
+  - AnimatedAlign
+  - perubahan warna, ukuran, dan posisi
 
 ### Ketika user menekan saklar :
 •	ukuran & warna lampu berubah
