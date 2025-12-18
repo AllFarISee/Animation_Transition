@@ -15,9 +15,9 @@
   - perubahan warna, ukuran, dan posisi
 
 ### Ketika user menekan saklar :
-•	ukuran & warna lampu berubah
-•	posisi saklar bergeser
-•	efek cahaya muncul
+  - ukuran & warna lampu berubah
+  - posisi saklar bergeser
+  - efek cahaya muncul
 
 
 
