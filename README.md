@@ -18,7 +18,8 @@
   - ukuran & warna lampu berubah
   - posisi saklar bergeser
   - efek cahaya muncul
-
+    
+___
 
 ## Explicit Animation
 ### Animasi lampu menyala dengan efek glow menggunakan :
