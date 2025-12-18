@@ -7,30 +7,33 @@
 <img width="302" height="541" alt="Lampu4" src="https://github.com/user-attachments/assets/554efa8a-6ffd-4c56-9fe5-a9ecfbe5230a" />
 <img width="302" height="541" alt="Lampu5" src="https://github.com/user-attachments/assets/57ab19af-30de-496f-8090-4f8ae533564f" />
 <img width="303" height="546" alt="Lampu6" src="https://github.com/user-attachments/assets/aa9e5f65-c439-43f6-9cff-e7473c6808de" />
-
+___
 ## Implicit Animation
-#### Animasi saklar lampu ON/OFF menggunakan :
-  - AnimatedContainer
-  - AnimatedAlign
-  - perubahan warna, ukuran, dan posisi
-
 #### Ketika user menekan saklar :
   - ukuran & warna lampu berubah
   - posisi saklar bergeser
   - efek cahaya muncul
-    
 ___
-
 ## Explicit Animation
-### Animasi lampu menyala dengan efek glow menggunakan :
-  - AnimationController
-  - Tween
-  - AnimatedBuilder
-
-### Kontrol animasi :
+#### Kontrol animasi :
   - Play → animasi berjalan maju
   - Reverse → animasi kembali ke awal
   - Repeat → animasi berulang (loop)
+___
+## Interactive Animation
+#### Animasi lampu yang bisa di-drag :
+  - User bisa menarik objek ke mana saja
+  - Saat dilepas, objek memantul kembali ke tengah
+___
+## Page Transition
+#### Efek yang digunakan :
+  - halaman baru masuk dari kanan
+  - disertai efek fade-in
+
+
+
+
+
 
 
 
