@@ -19,6 +19,19 @@
   - posisi saklar bergeser
   - efek cahaya muncul
 
+## Explicit Animation
+### Animasi lampu menyala dengan efek glow menggunakan :
+  - AnimationController
+  - Tween
+  - AnimatedBuilder
+
+### Kontrol animasi :
+  - Play → animasi berjalan maju
+  - Reverse → animasi kembali ke awal
+  - Repeat → animasi berulang (loop)
+
+
+
 
 
 ### Profile
