@@ -30,18 +30,8 @@ ___
 #### Efek yang digunakan :
   - halaman baru masuk dari kanan
   - disertai efek fade-in
-
-
-
-
-
-
-
-
-
-
+___
 ### Profile
-
 - Nama: {Alfarisi Azhar}
 - NIM: {23552011180}
 - Kelas : {TIF K 23B}
