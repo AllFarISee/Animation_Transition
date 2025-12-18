@@ -9,12 +9,12 @@
 <img width="303" height="546" alt="Lampu6" src="https://github.com/user-attachments/assets/aa9e5f65-c439-43f6-9cff-e7473c6808de" />
 
 ## Implicit Animation
-### Animasi saklar lampu ON/OFF menggunakan :
+#### Animasi saklar lampu ON/OFF menggunakan :
   - AnimatedContainer
   - AnimatedAlign
   - perubahan warna, ukuran, dan posisi
 
-### Ketika user menekan saklar :
+#### Ketika user menekan saklar :
   - ukuran & warna lampu berubah
   - posisi saklar bergeser
   - efek cahaya muncul
