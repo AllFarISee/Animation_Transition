@@ -7,6 +7,7 @@
 <img width="302" height="541" alt="Lampu4" src="https://github.com/user-attachments/assets/554efa8a-6ffd-4c56-9fe5-a9ecfbe5230a" />
 <img width="302" height="541" alt="Lampu5" src="https://github.com/user-attachments/assets/57ab19af-30de-496f-8090-4f8ae533564f" />
 <img width="303" height="546" alt="Lampu6" src="https://github.com/user-attachments/assets/aa9e5f65-c439-43f6-9cff-e7473c6808de" />
+
 ___
 ## Implicit Animation
 #### Ketika user menekan saklar :
