@@ -1,4 +1,4 @@
-# Electric Lamp Animation & Transition 📱
+# Electric Lamp Animation & Transition 💡📱
 
 ### Apps Preview
 <img width="302" height="538" alt="Lampu1" src="https://github.com/user-attachments/assets/f76b72e7-7f34-42dd-8724-8390c0d7cda4" />
